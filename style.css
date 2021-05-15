@@ -1,0 +1,9 @@
+h3 {
+font-size: 25px !important;
+}
+.btn-info:hover {
+background-color: blue;
+}
+canvas {
+border:2px dashed black;
+}
